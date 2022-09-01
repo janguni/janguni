@@ -1,6 +1,6 @@
 # hello I'm Jang Yun Hui
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=#E4007F&height=300&section=header&text=JangYunHui&fontSize=90&animation=$twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color='E4007F'&height=300&section=header&text=JangYunHui&fontSize=90&animation=$twinkling)
 Backend developer
 ![header](https://capsule-render.vercel.app/api?type=wave&color=#E4007F&height=300&section=header&text=JangYunHui&fontSize=90)
 
