@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=E4007F&height=300&section=header&text=JangYunHui&fontSize=90&animation=$twinkling)
-Backend developer
+<h2 align="center"> Backend Developer</h3>
 
 
 
