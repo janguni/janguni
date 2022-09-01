@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=JangYunHui&fontSize=90&animation=$twinkling)
 Backend developer
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#E4007F&height=300&section=header&text=JangYunHui&fontSize=90)
 
 
 <h3 align="center"> 👩‍💻 Tech Stack 👩‍💻</h3>
