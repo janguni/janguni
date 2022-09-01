@@ -17,15 +17,11 @@ Backend developer
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon Ec2-FF9900?style=flat-square&logo=Amazon Ec2&logoColor=white"/>
-  
-</p>
-<p align="center">
-✨ *For More Info...* ** **[BLOG](https://lightson2323.tistory.com)** **
 </p>
 
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janguni&show_icons=true&theme=radical)
-</p>
+<p align="center">✨ *For More Info...* ** **[BLOG](https://lightson2323.tistory.com)** **</p>
+
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janguni&show_icons=true&theme=radical)</p>
 <!--
 
 - 🔭 I’m currently working on ...
