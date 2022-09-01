@@ -1,9 +1,9 @@
 # hello I'm Jang Yun Hui
 Backend developer
-<center>
 
-### 👩‍💻 Tech Stack 👩‍💻
 
+<h3 align="center"> 👩‍💻 Tech Stack 👩‍💻</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -18,7 +18,7 @@ Backend developer
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon Ec2-FF9900?style=flat-square&logo=Amazon Ec2&logoColor=white"/>
   
-</center>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janguni&show_icons=true&theme=radical)
 <!--
