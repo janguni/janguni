@@ -19,9 +19,9 @@ Backend developer
 <img src="https://img.shields.io/badge/Amazon Ec2-FF9900?style=flat-square&logo=Amazon Ec2&logoColor=white"/>
 </p>
 
-<p align="center">✨ *For More Info...* ** **[BLOG](https://lightson2323.tistory.com)** **</p>
+✨ *For More Info...* ** **[BLOG](https://lightson2323.tistory.com)** **
 
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janguni&show_icons=true&theme=radical)</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janguni&show_icons=true&theme=radical)
 <!--
 
 - 🔭 I’m currently working on ...
